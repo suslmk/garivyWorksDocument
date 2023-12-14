@@ -1,5 +1,8 @@
 # 작품명 :  Garivy Works
 
+# 아키텍쳐
+![image](https://github.com/suslmk/garivyWorksDocument/assets/59984223/df24c07c-415a-41d7-ae71-3a817cc0b868)
+
 # Garivy Works App 설치가이드
 
 본 문서는 Garivy Works 앱을 테스터가 자신의 아이폰에서 실행시킬 수 있는 방법을 설명합니다. <br>
@@ -66,16 +69,11 @@ Apple 기기에서 실행되는 App은 Apple App Store에서 심사를 받지 �
 <img src="https://user-images.githubusercontent.com/59984223/203668033-8f752bdc-9840-457a-a094-56d25d13d3a9.jpeg" width="250" height="500"/>
 5.   App 실행시 개발자모드 Alert 확인</br>
 <img src="https://user-images.githubusercontent.com/59984223/203668040-ec3d58cc-7043-4670-9096-33bf28d01b2b.jpeg" width="250" height="500"/>
-6.   설정 > 개인정보 보호 및 보안 > 개발자 모드 Enable</br>
-<img src="https://user-images.githubusercontent.com/59984223/203668046-1bfa686d-11bd-492d-bbdd-ea66b796dd76.jpeg" width="250" height="500"/>
-<img src="https://user-images.githubusercontent.com/59984223/203668050-7ace5064-2969-4a00-8ee9-c25911cee723.jpeg" width="250" height="500"/>
-<img src="https://user-images.githubusercontent.com/59984223/203668061-cb85e7fb-396a-4832-ad1d-f1e3df10c9bb.jpeg" width="250" height="500"/>
+6.   설정 > 개인정보 보호 및 보안 > 개발자 모드 Enable</br>  
+<img src="https://user-images.githubusercontent.com/59984223/203668046-1bfa686d-11bd-492d-bbdd-ea66b796dd76.jpeg" width="250" height="500"/>  
+<img src="https://user-images.githubusercontent.com/59984223/203668050-7ace5064-2969-4a00-8ee9-c25911cee723.jpeg" width="250" height="500"/>  
+<img src="https://user-images.githubusercontent.com/59984223/203668061-cb85e7fb-396a-4832-ad1d-f1e3df10c9bb.jpeg" width="250" height="500"/>  
 
 
-![image](https://github.com/suslmk/garivyWorksDocument/assets/59984223/df24c07c-415a-41d7-ae71-3a817cc0b868)
 
- - 테스트 방법
-   * 아이폰용 모바일 앱으로 개발된 작품으로서 IOS 16이상의 아이폰에서만 테스트가 가능하며, AppStore에 출시되지 않아 별도의 링크에서 다운로드 받아 활용해 볼  수 있습니다.
-   * Apple 정책 상 테스트를 위한 단말기도 테스트 용도로서 등록이 되어야만 개발된 앱을 설치할 수 있기에 심사위원 분 아이폰의 UUID를 애플 개발자로 등록된 접수자의 인증서에 포함시켜 재배포 해야 합니다.
-   * 심사위원분의 메일주소를 주시면 설치 관련 Link를 메일로  전송해 드리며, Link 내에서 관련 UUID를 등록해 주시는 절차등이 확인 가능합니다.
    * 앱 점검이 어려우신 분들에 대한 Youtube 영상 [Link](https://www.youtube.com/watch?v=2adORvvHaqQ)
